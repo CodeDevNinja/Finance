@@ -1,0 +1,21 @@
+stock:
+  - 股票代码
+      name: 股票名称
+      number: 股数
+      costPrice: 成本价
+      sellNotify: 减仓价
+      buyNotify: 补仓价
+
+  - SZ002594:
+        name: "比亚迪"
+        number: 100
+        costPrice: 245.061
+        sellNotify: 300
+        buyNotify: 200
+        
+  - 01810:
+        name: "小米"
+        number: 889
+        costPrice: 19.2204
+        sellNotify: 25
+        buyNotify: 16
